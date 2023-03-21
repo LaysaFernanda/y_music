@@ -1,7 +1,7 @@
 # y_music
 Projeto de análise de comportamento de pessoas que ouvem música durante a semana em diferentes cidades.
 
-Neste projeto, comparei as preferências musicais dos habitantes de Springfild e Shelbyville, para testar hipóteses sobre o comportamento dos usuários dessas cidades, usando os dados reais do Y.Music.
+Neste projeto (Practicum), comparei as preferências musicais dos habitantes de Springfild e Shelbyville, para testar hipóteses sobre o comportamento dos usuários dessas cidades, usando os dados reais do Y.Music.
 
 ### Hipóteses
 1. A atividade dos usuários é diferente dependendo do dia da semana e da cidade.
