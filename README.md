@@ -8,7 +8,7 @@ Neste projeto, comparei as preferências musicais dos habitantes de Springfild e
 2. Durante as manhãs de segunda-feira, os moradores de Springfield e Shelbyville escutam diferentes gêneros. Isso também é verdadeiro para noites de sexta-feira.
 3. Os ouvintes de Springfield e Shelbyville têm diferentes preferências. Em Springfield, as pessoas preferem pop, enquanto Shelbyville tem mais fãs de rap.
 
-### Dados
+### Descrição das colunas
 - 'userID' — identificador do usuário
 - 'Track' — título da faixa
 - 'artist' — nome do artista
